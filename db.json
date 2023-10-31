@@ -1,0 +1,16 @@
+{
+  "books": [
+    {
+      "title": "First book",
+      "id": 1
+    },
+    {
+      "title": "Atomic habit",
+      "id": 2
+    },
+    {
+      "title": "My Hobbies",
+      "id": 3
+    }
+  ]
+}
